@@ -1,1 +1,18 @@
+[
+  {
+    "titulo": "🔥 70% OFF en SaaS X",
+    "precio": "12€",
+    "url": "https://ejemplo.com/x"
+  },
+  {
+    "titulo": "🚀 Lifetime Deal en SaaS Y",
+    "precio": "29€",
+    "url": "https://ejemplo.com/y"
+  },
+  {
+    "titulo": "💼 SaaS Z Enterprise Plan",
+    "precio": "49€",
+    "url": "https://ejemplo.com/z"
+  }
+]
 
