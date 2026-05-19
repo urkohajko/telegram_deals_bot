@@ -1,0 +1,10 @@
+<svg width="260" height="60" viewBox="0 0 260 60" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="260" height="60" rx="12" fill="#0F0F11"/>
+  <text x="20" y="38" font-family="Inter, Arial" font-size="26" font-weight="700" fill="white">
+    SaaS Deals
+  </text>
+  <rect x="180" y="18" width="60" height="24" rx="6" fill="#6A5CFF"/>
+  <text x="190" y="35" font-family="Inter, Arial" font-size="14" font-weight="600" fill="white">
+    BOT
+  </text>
+</svg>
