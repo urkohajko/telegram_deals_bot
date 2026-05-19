@@ -12,6 +12,11 @@ body {
     line-height: 1.6;
 }
 
+/* LOGO */
+.logo-img {
+    height: 38px;
+}
+
 /* NAV */
 .nav {
     display: flex;
@@ -21,11 +26,6 @@ body {
     background: rgba(255,255,255,0.02);
     backdrop-filter: blur(10px);
     border-bottom: 1px solid #1a1a1d;
-}
-
-.logo {
-    font-size: 1.4rem;
-    font-weight: 700;
 }
 
 .nav-btn {
